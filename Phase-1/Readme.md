@@ -238,26 +238,8 @@ These concepts form the foundation of all Three.js applications.
 ---
 
 
-## 📚 Resources
+## 📚 Resources for more :
 
 * Three.js Documentation: https://threejs.org/docs/
 * Three.js Examples: https://threejs.org/examples/
 * Three.js Official Website: https://threejs.org/
-
----
-
-### Phase 1 Status
-
-✅ Scene Created
-
-✅ Camera Added
-
-✅ Renderer Configured
-
-✅ Cube Created
-
-✅ Animation Working
-
-✅ Responsive Resize Handling
-
-**Learning Progress: Phase 1 Complete 🎉**
